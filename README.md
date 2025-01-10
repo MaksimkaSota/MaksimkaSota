@@ -1,6 +1,10 @@
 # 👋 Hello World, I am Maksim Sotnikov :)
 I am a Frontend developer with a focus on creating interactive and user-friendly web applications.  
 My toolkit includes React, Redux, JavaScript, TypeScript,  and much more to build scalable and maintainable user interfaces.
+
+My goal is to create intuitive and engaging web applications. I am committed to staying up-to-date with the latest technologies  
+and trends in web development to ensure that my work remains relevant and effective. I believe that web development is not just  
+about coding, but also about understanding the needs of users and creating solutions that meet their requirements.
 ### 💻 Languages and tools:  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
